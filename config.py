@@ -11,10 +11,10 @@ API_ID = int(getenv("API_ID", "27469215"))
 API_HASH = getenv("API_HASH", "544b135cbf33923fed1a7c461cc95f18")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-BOT_TOKEN = getenv("BOT_TOKEN", None)
+BOT_TOKEN = getenv("BOT_TOKEN", "8336737769:AAGKtMwq9AomEdD3FTad960azRbDQRWMGQs")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_ID = int(getenv("OWNER_ID", "7218905176"))
+OWNER_ID = int(getenv("OWNER_ID", "6018803920"))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://bikash:bikash@bikash.3jkvhp7.mongodb.net/?retryWrites=true&w=majority")
@@ -26,10 +26,10 @@ SUPPORT_GRP = getenv("SUPPORT_GRP", "Sukunaxupdatess")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "sukunaxsupport")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_USERNAME = getenv("OWNER_USERNAME", "TheBabyPerson")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "slayer1237")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-BOT_USERNAME = getenv("BOT_USERNAME", None)
+BOT_USERNAME = getenv("BOT_USERNAME", "riselia_xbot")
 
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
