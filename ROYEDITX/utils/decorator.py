@@ -1,7 +1,7 @@
 from pyrogram.types import Message, CallbackQuery, ChatMember
 from pyrogram.enums import ChatMemberStatus, ChatMembersFilter
 from functools import wraps, lru_cache
-from Yumeko import app, admin_cache, log
+from ROYEDITX import app, admin_cache, log
 from pyrogram.errors import RPCError
 import json
 import asyncio
