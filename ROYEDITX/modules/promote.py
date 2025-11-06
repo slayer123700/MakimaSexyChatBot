@@ -19,9 +19,9 @@ from pyrogram import filters, enums
 from pyrogram.errors import ChatAdminRequired, UserAdminInvalid
 from pyrogram.types import ChatPrivileges, Message
 
-from AnieXEricaMusic import app
-from AnieXEricaMusic.utils.decorator import admin_required
-from AnieXEricaMusic.utils.permissions import extract_user_and_title, mention, parse_time
+from ROYEDITX import app
+from ROYEDITX.utils.decorator import admin_required
+from ROYEDITX.utils.permissions import extract_user_and_title, mention, parse_time
 
 
 # ────────────────────────────────────────────────────────────
